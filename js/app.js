@@ -1,3 +1,4 @@
+
 // Enemies our player must avoid
 var Enemy = function(x, y, speed) {
     this.x = x;
@@ -17,6 +18,7 @@ var Enemy = function(x, y, speed) {
    
 // Update the enemy's position, required method for game
 // Parameter: dt, a time delta between ticks
+"use strict;"
 Enemy.prototype.update = function(dt) {
      
     this.x += this.speed * dt;
