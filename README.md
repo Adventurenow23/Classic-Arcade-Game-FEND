@@ -1,6 +1,7 @@
 # Classic-Arcade-Game-FEND
 
-Bug Crash animated game based on the Frogger game concept where icons try to cross gameboard while dodging the enemy bugs.
+1) Bug Crash animated game based on the Frogger game concept where icons try to cross gameboard while dodging the enemy bugs.
+
 How to run the Classic Arcade Game:
 The "Bug Crash" game is already in motion for you when you encounter it.  To start your player into motion, you just need to press
 the up arrow key or any other arrow key as you progress upwards in order to maneuver your player to the water.
