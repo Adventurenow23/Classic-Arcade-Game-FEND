@@ -17,3 +17,10 @@ C) Also, upon loading, enemy bugs are racing past at three rows above her, her m
 D) Players can control the pink girl icon with use of the arrow keys on his/her individual keyboard for manipulation of movements for bug avoidance.
 E) In the event that the icon does collide with one of the enemy bugs while trying to move up to the water, it will automatically return to its starting position to try crossing again.
 F) Upon successful crossing of all rows without any collision, the icon will reach the water, receive a congratulatory message and return to it starting position again for a chance to play again.
+
+
+Source code attributed to Udacity-Grow with google program; Additional code attributed to Matt Cranford, Udacity Student Leader.
+
+Web background attributed to: http://fc05.deviantart.net/fs40/f/2009/041/7/d/Green_grass_and_blue_sky_by_s1lv3r_bg.jpg. Picture was appropriate for setting.
+
+Many thanks to all who contributed in online videos and with compilation of learning resources for easy retrieval, in addition to the Udacity admin staff for study jam coordination and keeping us apprised of all news.
