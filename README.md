@@ -5,6 +5,8 @@ Bug Crash animated game based on the Frogger game concept where icons try to cro
 How to run the Classic Arcade Game:
 
 To access the "Bug Crash" game, you can click on:https://adventurenow23.github.io/Classic-Arcade-Game-FEND/
+Another way to access the game is to visit github.com at https://github.com/Adventurenow23/Classic-Arcade-Game-FEND and press the clone/download green button to download the game and its files to your computer directory and then run the application locally from your 
+favorite text editor by accessing the index.html to run in your selected browser.
 
 The "Bug Crash" game is already in motion for you when you encounter it.  To start your player into motion, you just need to press
 the up arrow key or any other arrow key as you progress upwards in order to maneuver your player to the water.
